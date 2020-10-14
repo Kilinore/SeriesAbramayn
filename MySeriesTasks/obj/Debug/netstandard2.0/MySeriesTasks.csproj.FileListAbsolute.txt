@@ -1,0 +1,9 @@
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\bin\Debug\netstandard2.0\MySeriesTasks.deps.json
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\bin\Debug\netstandard2.0\MySeriesTasks.dll
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\bin\Debug\netstandard2.0\MySeriesTasks.pdb
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\obj\Debug\netstandard2.0\MySeriesTasks.csprojAssemblyReference.cache
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\obj\Debug\netstandard2.0\MySeriesTasks.AssemblyInfoInputs.cache
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\obj\Debug\netstandard2.0\MySeriesTasks.AssemblyInfo.cs
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\obj\Debug\netstandard2.0\MySeriesTasks.csproj.CoreCompileInputs.cache
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\obj\Debug\netstandard2.0\MySeriesTasks.dll
+C:\Users\banan\Desktop\ABRAMYAN\MySeriesTasks\MySeriesTasks\obj\Debug\netstandard2.0\MySeriesTasks.pdb
